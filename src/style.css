@@ -40,10 +40,10 @@ body {
 .flex-container>div {
     background-color: white;
     display: flex-start;
-    margin: 90px;
-    padding: 100px;
+    margin: 10px;
+    padding: 50px;
     font-size: 20px;
-    border-radius: 300px;
+    border-radius: 150px;
 }
 
 .Card-img {
