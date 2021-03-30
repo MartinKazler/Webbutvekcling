@@ -76,15 +76,13 @@ body {
 }
 
 .Card-info {
-    background: green;
-    margin-left: 45px;
     font-size: 15px;
     font-family: sans-serif;
 }
 
 .Card-data {
     background-color: white;
-    font-size: 70px;
+    font-size: 30px;
     display: flex;
     text-transform: capitalize
 }
