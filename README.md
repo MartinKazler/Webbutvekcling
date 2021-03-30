@@ -1,4 +1,4 @@
-Kunde inte ladda upp Zip och märkte inte det förrens nästan dag, så hopppas det är okej att det inte är i en ZIP, då 100+ filer går inte att ladda upp
+Kunde inte ladda upp Zip och märkte inte det förrens nästan dag, så hopppas det är okej att det inte är i en ZIP, då 100+ filer går inte att ladda upp. försökte även få in pokeboll som img fil som bakgrund men lyckades inte då jag antagligen skulle behövd editerat en egen img fil
 
 # Getting Started with Create React App
 
