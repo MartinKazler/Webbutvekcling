@@ -1,4 +1,4 @@
-Kunde inte ladda upp Zip och märkte inte det förrens nästan dag, så hopppas det är okej att det inte är i en ZIP
+Kunde inte ladda upp Zip och märkte inte det förrens nästan dag, så hopppas det är okej att det inte är i en ZIP, då 100+ filer går inte att ladda upp
 
 # Getting Started with Create React App
 
