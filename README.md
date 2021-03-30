@@ -1,3 +1,5 @@
+Kunde inte ladda upp Zip och märkte inte det förrens nästan dag, så hopppas det är okej att det inte är i en ZIP
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
