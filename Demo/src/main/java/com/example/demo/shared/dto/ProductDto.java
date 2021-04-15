@@ -3,8 +3,8 @@ package com.example.demo.shared.dto;
 import java.io.Serializable;
 
 public class ProductDto implements Serializable {
-    //long felt id, string felt userId, firstname, lastname, email, password, encryptedPassword
-    //a convention this is just for bigger work when you want to get different layers
+    
+    
     private long id;
     private String productId, name, category;
     private int cost;
